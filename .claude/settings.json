@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell($env:PATH = \"C:\\\\laragon\\\\bin\\\\php\\\\php-8.3.30-Win32-vs16-x64;C:\\\\laragon\\\\bin\\\\nodejs\\\\node-v22;$env:PATH\"; npm run build 2>&1 | Select-Object -Last 30)",
+      "PowerShell($env:PATH = \"C:\\\\laragon\\\\bin\\\\php\\\\php-8.3.30-Win32-vs16-x64;$env:PATH\"; php artisan migrate:fresh --seed --force 2>&1 | Select-Object -Last 40)"
+    ]
+  }
+}
