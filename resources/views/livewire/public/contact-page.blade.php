@@ -10,7 +10,7 @@
 
     <section class="py-5 bg-white">
         <div class="container">
-            <div class="row g-5 align-items-center mb-5">
+            <div class="row g-3 g-lg-5 align-items-center mb-5">
                 <div class="col-lg-6">
                     <div class="section-title mb-2">Our story</div>
                     <h2 class="fw-bold mb-3">A home ground for the Northern Region</h2>
@@ -54,7 +54,7 @@
 
     <section class="py-5" style="background:var(--chalk-100);">
         <div class="container">
-            <div class="row g-5">
+            <div class="row g-3 g-lg-5">
                 <div class="col-lg-6">
                     <div class="section-title mb-2">Get in touch</div>
                     <h2 class="fw-bold mb-4">Contact the office</h2>

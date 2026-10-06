@@ -10,7 +10,7 @@
 
     <section class="py-5 bg-white">
         <div class="container">
-            <div class="row g-5">
+            <div class="row g-3 g-lg-5">
 
                 <div class="col-lg-7">
                     <div class="panel">

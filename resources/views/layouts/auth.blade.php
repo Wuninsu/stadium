@@ -13,7 +13,7 @@
 <body>
 
 <div class="auth-shell">
-    <div class="auth-brand d-flex">
+    <div class="auth-brand">
         <div class="d-flex align-items-center gap-2">
             <div class="mark">AM</div>
             <span class="fw-bold" style="font-family:'Space Grotesk',sans-serif;">Aliu Mahama <span style="color:var(--flood-400)">Stadium</span></span>
